@@ -153,7 +153,7 @@ end
 $ rails g controller translate index
 ```
 
-controllers/translate_controller.rb
+app/controllers/translate_controller.rb
 
 ```
 class TranslateController < ApplicationController
@@ -173,7 +173,7 @@ end
 
 ## translate のルーティングとビューを作成
 
-views/translate/index.html.erb
+app/views/translate/index.html.erb
 
 ```
 <h1>translate</h1>

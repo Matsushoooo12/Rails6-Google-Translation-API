@@ -40,12 +40,6 @@ API とサービス → ライブラリ →Cloud Translation API を検索して
 
 <img width="998" alt="スクリーンショット 2021-10-02 0 58 26" src="https://user-images.githubusercontent.com/66903388/135651441-2a1a2ef2-ce2e-4be7-a775-dd2cb41d58f1.png">
 
-↓
-
-<img width="563" alt="スクリーンショット 2021-10-02 0 59 10" src="https://user-images.githubusercontent.com/66903388/135651564-76a46223-bf45-44cc-a2e1-9ffde0724cba.png">
-
-これで API キーが作成されました。
-
 ## API キーを編集して、API キーの名前を変更して API キーを制限する
 
 <img width="1680" alt="スクリーンショット 2021-10-02 1 02 41" src="https://user-images.githubusercontent.com/66903388/135652071-77baac2a-f39e-463c-ace7-ad7e66acfab4.png">

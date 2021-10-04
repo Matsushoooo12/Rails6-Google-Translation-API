@@ -99,24 +99,24 @@ config/google_cloud.json
 
 ```
 {
-  "type": "service_account",
-  "project_id": "sunlit-tea-327714",
-  "private_key_id": "fdaa263ecb7a0402eaaf8b45fd1abe6008da2874",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDqsICFwIfcmV7h\nwjSebqAr6GRUgszPnu7RZqW3j8OO8spQaMjvnhIg14KmGFrPI/VC/qBBrZ1cnYVD\nBAySNjCW4E4RTnmVQnCHni+qWai7Ru1H7vw7w54OkILckTBYrgp6eySKVgwYJi+R\nYMxHfXHe6avsekJru5XCHNOjpIKscNcR97I4J4ZuXIJy0LdsARrzINKDmV25QVjr\nXJ9x79LrTj+kWFMqL5JxFqG08HN4Pa42R8W4DqWRPzaQ1MmXMkCnirV+dBwnrDeS\n1RW499T4T5HNp7g7E1aAsHTIocPLqwtPbxQmM1rANq5MhygIeEsLFIIt71VDnmd9\n8IFNYs6dAgMBAAECggEAIhnTaEaOzIxchQvlqWpZoQemIcF/u7X+7YkEu09gaFJO\n+LAWbPrYQigOYSQDeJBjqtW6DiZenykkRpXoCGFnXgTpqF9xZdwUOHXREeeaj4Zs\nI++jJuvy+MV2vlCPvdL2zXqR11KkHz4tMJU9btsuGJMg2r5JDcO2rFCT+qCE0ZlX\nPomxnDPAmDye+fyIQP3C9TP6OeKmai2v/jzHvf/E86deq7ZGEpM+tdLup1iOs+we\nCZg7+N5UQ2m7GcvVAIPqurfmTfZqv9YvKjzbwgiZ2FZqtjQDsktvjqcWcWlZLm+Q\n14NcLmZ6QGx31MZJpLk0VbnfornX5gIceY2639gQ4QKBgQD49lZh1AyoAKFk0kG3\nev2KRHMXACWPIyTcVr+aMSQpuSQVqOUM3xEfKvvhcDVSKzstmldcZKRPbRVzX/25\nisQDTwxQ3Sn5eYOyD0I6g+fb8/erBolsMJzuw5wp5N6XAXeR9qoGkhXZkJ+gPPB+\nQRHN2tgkhUxb9im69MSqraPqhwKBgQDxUuB3u6LODE8sgRCNcxxDZN41lb7JAht/\nDkiyhXyCUgWKUg+B/LpWpC/+btVZUAQ97bXoQbfWWGgHMzwIVSt7ZJwwI8d/7CTS\nEOg4N5kCPVQp02lNzo3eispQ+EVdCsW8+U+Zd6ez5jcg9An7It7BCNrwtje6lDrl\n3CCbi88SuwKBgAXblfC7UojpauK6Z71vcWO9dI/H+xpBE27zw5JXMaihqI2x6aHB\n5d873a1SPI7wYXYTOZb87zjHMkgCrC+fajlBtOJ6MbCjAUxBO6ewztXICb3Ga5lW\nE3syswvxTKN072FJ0npRGZ6C3p6gkHAIC+kyCv/g+wj248h4VeBGMaMlAoGBALYK\nG5OWcmhWNr9OmMrrA23/P/RSAnok4dMFVmd8dIDmGJHP9yzKFVJYRm/68WuPBbQl\nhewu7tt9EvQjfOyYOtW4/mz+AHcKDnh8EoCdyAk9dCic9rmfz7sJHTbZIZHfF2zG\n8HnHHjWBuyJblM/h7QDWijm8auuO96L/W4WagFkTAoGAEep/2Crq52dy+dm3QKNd\ncufqrti7Uz+ZG6MQ1HCw4zlu/BNF17jti4ZYc2Jvn54oMBIJdhWXdTFBoC4IyeEC\ny5C8yTjyj0EQ1kL57iSdWGiBOH0tjdgncE4c6WHf2zcxWOwyW05d6hclO/puFZjd\nVfQYEfIFo7fcQ7XktSuySYU=\n-----END PRIVATE KEY-----\n",
-  "client_email": "root-5@sunlit-tea-327714.iam.gserviceaccount.com",
-  "client_id": "116451798270058580729",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/root-5%40sunlit-tea-327714.iam.gserviceaccount.com"
+ "type": "service_account",
+ "project_id": "your_project_id", #=>これを使います
+ "private_key_id": "04e00XXXXXXXXX",
+ "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBg...p0Tg7WibPz76wqUFpGj/qshvY2pqFc2H94\nxkgZT44GHXagW5WOW5ofXJo=\n-----END PRIVATE KEY-----\n",
+ "client_email": "random@random.iam.gserviceaccount.com",
+ "client_id": "111111111111111",
+ "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+ "token_uri": "https://oauth2.googleapis.com/token",
+ "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+ "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/random%random.iam.gserviceaccount.com"
 }
 ```
 
 local_env.yml
 
 ```
-CLOUD_PROJECT_ID: "sunlit-tea-327714"
-GOOGLE_APPLICATION_CREDENTIALS: "config/google_cloud.json"
+CLOUD_PROJECT_ID: 'your_project_id' #=>google_cloud.jsonのproject_idから
+GOOGLE_APPLICATION_CREDENTIALS: 'config/google_cloud.json'
 ```
 
 ## gitignore ファイルに google_cloud.json、local_env.yml を入れる

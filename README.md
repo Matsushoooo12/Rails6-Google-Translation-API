@@ -42,7 +42,7 @@ API とサービス → ライブラリ →Cloud Translation API を検索して
 
 ## API キーを編集して、API キーの名前を変更して API キーを制限する
 
-<img width="1680" alt="スクリーンショット 2021-10-02 1 02 41" src="https://user-images.githubusercontent.com/66903388/135652071-77baac2a-f39e-463c-ace7-ad7e66acfab4.png">
+<img width="543" alt="スクリーンショット 2021-10-05 2 46 39" src="https://user-images.githubusercontent.com/66903388/135899184-553ff12a-8f07-46b5-a5bb-ede07aa280f0.png">
 
 これで API キーの設定は完了です。
 
